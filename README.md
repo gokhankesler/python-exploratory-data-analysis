@@ -1,5 +1,5 @@
 # Python Exploratory Data Analysis
-This repository provides EDA of different datasets prepared by Gokhan Kesler. It will be update as new EDAs are added. Enjoy
+This repository provides EDA of different datasets prepared by Gokhan Kesler. It will be update as new EDAs are added. Enjoy.
 
 
 1. [Analyzing TV Data](https://github.com/gokhankesler/python-exploratory-data-analysis/tree/main/analyzing-tv-data)
